@@ -681,12 +681,15 @@ h2.slogan {
 
 .images_holder {
 	float: left;
-	margin: 5px 130px 0 0;
-	width: 370px;
+	margin: 1px 90px 0 0;
+	width: 200px;
+	
+	margin-left:150px;
+	
 }
 
 .images_holder img {
-	width: 100%;
+	width: 80%;
 	height: auto;
 	display: inline;
 	border-radius: 180px;
