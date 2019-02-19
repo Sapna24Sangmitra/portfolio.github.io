@@ -479,36 +479,34 @@ h2.slogan {
 	padding: 0 0 0 20px;
 }
 
-.progress li span.android {
-	width: 70%;
-}
+
 
 .progress li span.java {
-	width: 90%;
+	width: 60%;
 }
 
 .progress li span.cpp {
-	width: 90%;
+	width: 50%;
 }
 
 .progress li span.c {
-	width: 90%;
+	width: 50%;
 }
 
 .progress li span.sql {
-	width: 70%;
+	width: 60%;
 }
 
 .progress li span.javascript {
-	width: 55%;
+	width: 50%;
 }
 
 .progress li span.css {
-	width: 90%;
+	width: 75%;
 }
 
 .progress li span.html {
-	width: 90%;
+	width: 70%;
 }
 
 .education_inner {
